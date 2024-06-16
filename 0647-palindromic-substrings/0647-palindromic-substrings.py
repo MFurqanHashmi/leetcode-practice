@@ -1,5 +1,5 @@
 class Solution:
-    # Optomized Solution
+    # Optimized Solution with Pointers- O(n^2)
     def countSubstrings(self, s: str) -> int:
         num_of_palindromes = 0
 
